@@ -80,11 +80,11 @@
     ![](img/image-5.png)
 - Kết quả kiểm thử:
     - InceptionV3
-    ![](img/image-6.png)
+    ![](img/image-6b.png)
     - DenseNet201
-    ![](img/image-7.png)
+    ![](img/image-7b.png)
     - EfficientNetB7
-    ![](img/image-8.png)
+    ![](img/image-8b.png)
 - Thời gian huấn luyện giữa các mô hình
     ![](img/image-9.png)
     

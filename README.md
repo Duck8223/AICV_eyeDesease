@@ -35,7 +35,9 @@
 ## Dữ liệu
 ### Mô tả
 - Bộ dữ liệu bao gồm các nhãn phân loại bình thường, Bệnh võng mạc tiểu đường, Đục thủy tinh thể, Bệnh tăng nhãn áp với mỗi nhãn có gần 1000 ảnh. Những ảnh này được thu thập từ nhiều nguồn khác nhau như IDRiD, Oculur recognition, HRF, ...
+  
 ![](img/image-10.png)
+
 - URL của Bộ dữ liệu: [eye-diseases-classification](https://www.kaggle.com/datasets/gunavenkatdoddi/eye-diseases-classification)
 ### Chia dữ liệu
 - Bộ dữ liệu được chia theo tỉ lệ 8/1/1 để huấn luyện

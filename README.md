@@ -36,7 +36,7 @@
 ### Mô tả
 - Bộ dữ liệu bao gồm các nhãn phân loại bình thường, Bệnh võng mạc tiểu đường, Đục thủy tinh thể, Bệnh tăng nhãn áp với mỗi nhãn có gần 1000 ảnh. Những ảnh này được thu thập từ nhiều nguồn khác nhau như IDRiD, Oculur recognition, HRF, ...
   
-![](img/image-10.png)
+!["Các thành phần của dữ"](img/image-10.png)
 
 - URL của Bộ dữ liệu: [eye-diseases-classification](https://www.kaggle.com/datasets/gunavenkatdoddi/eye-diseases-classification)
 ### Chia dữ liệu
@@ -68,25 +68,26 @@
 ## Kết quả và đánh giá
 - Kết quả huấn luyện:
     - InceptionV3
-    ![](img/image.png)
+    ![Kết quả của InceptionV3](img/image.png)
     - DenseNet201
-    ![](img/image-1.png)
+    ![Kết quả của DenseNet201](img/image-1.png)
     - EfficientNetB7
-    ![](img/image-2.png)
+    ![Kết quả của EfficientNetB7](img/image-2.png)
 - Ma trận nhầm lẫn:
     - InceptionV3
-    ![](img/image-3.png)
+    ![Ma trận của InceptionV3](img/image-3.png)
     - DenseNet201
-    ![](img/image-4.png)
+    ![Ma trận của DenseNet201](img/image-4.png)
     - EfficientNetB7
-    ![](img/image-5.png)
+    ![Ma trận của EfficientNetB7](img/image-5.png)
 - Kết quả kiểm thử:
     - InceptionV3
-    ![](img/image-6b.png)
+    ![Kiểm thử với InceptionV3](img/image-6b.png)
     - DenseNet201
-    ![](img/image-7b.png)
+    ![Kiểm thử với DenseNet201](img/image-7b.png)
     - EfficientNetB7
-    ![](img/image-8b.png)
+    ![Kiểm thử với EfficientNetB7](img/image-8b.png)
 - Thời gian huấn luyện giữa các mô hình
-    ![](img/image-9.png)
+
+  ![Biểu đồ thống kê thời gian huấn luyện giữa các mô hình](img/image-9.png)
     
